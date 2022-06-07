@@ -1,3 +1,6 @@
+//simple outlines of mocha testing utilizing naive approaches and
+//Setup/Exercise/Verify approach
+
 //==========|Non-Functioning Outline|==========//
 describe('Math', () => {
   describe('.min', () => {
